@@ -1,0 +1,90 @@
+E:\DBMSLab\DBMSLab\bin\Debug\DBMSLab.exe.config
+E:\DBMSLab\DBMSLab\bin\Debug\DBMSLab.exe
+E:\DBMSLab\DBMSLab\bin\Debug\DBMSLab.pdb
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.csprojAssemblyReference.cache
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form1.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form2.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form3.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Properties.Resources.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.csproj.GenerateResource.cache
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.csproj.CoreCompileInputs.cache
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.exe
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.pdb
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form4.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form5.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form6.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form7.resources
+E:\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form8.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\bin\Debug\DBMSLab.exe.config
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.exe
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.pdb
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\bin\Debug\DBMSLab.exe
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\bin\Debug\DBMSLab.pdb
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.csprojResolveAssemblyReference.cache
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form1.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form2.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form3.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form4.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form5.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form6.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form7.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Form8.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.Properties.Resources.resources
+C:\Users\bangb\Desktop\DBMSLab\DBMSLab\obj\Debug\DBMSLab.csproj.GenerateResource.Cache
+C:\Users\bangb\Documents\DBMSLab\DBMSLab\bin\Debug\DBMSLab.exe.config
+C:\Users\bangb\Documents\DBMSLab\DBMSLab\obj\Debug\DBMSLab.exe
+C:\Users\bangb\Documents\DBMSLab\DBMSLab\obj\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\bin\Debug\DBMSLab.exe.config
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\bin\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\bin\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.csprojAssemblyReference.cache
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form1.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form2.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form3.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form4.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form5.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form6.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Form7.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.Properties.Resources.resources
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.csproj.GenerateResource.cache
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\DBMSLab\obj\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\bin\Debug\DBMSLab.exe.config
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\bin\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\bin\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.csprojAssemblyReference.cache
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form1.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form2.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form3.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form4.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form5.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form6.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Form7.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.Properties.Resources.resources
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.csproj.GenerateResource.cache
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\LanMids\DBMSLab\obj\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\bin\Debug\DBMSLab.exe.config
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\bin\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\bin\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.csprojAssemblyReference.cache
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form1.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form2.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form3.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form4.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form5.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form6.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form7.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Properties.Resources.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.csproj.GenerateResource.cache
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.exe
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.pdb
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form8.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form9.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form11.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form12.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form13.resources
+C:\Users\Junaid Ali Chutia\Downloads\LabMids\DBMSLab\obj\Debug\DBMSLab.Form14.resources
